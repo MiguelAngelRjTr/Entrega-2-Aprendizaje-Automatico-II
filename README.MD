@@ -196,8 +196,7 @@ conda activate ml-core
 1. Clonar repositorio:
 
 ```bash
-git clone <repo_url>
-cd <repo>
+git clone https://github.com/MiguelAngelRjTr/Entrega-2-Aprendizaje-Automatico-II.git
 ```
 
 2. Crear entorno:
