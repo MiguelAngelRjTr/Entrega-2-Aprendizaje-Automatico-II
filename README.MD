@@ -169,7 +169,7 @@ Se selecciona un modelo con **k = 3** componentes como alternativa compacta.
 Los clusters obtenidos permiten distinguir perfiles diferenciados, por ejemplo:
 
 - Clientes con alta actividad de compras
-- Clientes con uso intensivo de cash advance
+- Clientes de perfil moderado y uso controlado
 - Clientes con bajo consumo y pagos mínimos
 
 El análisis incluye:
